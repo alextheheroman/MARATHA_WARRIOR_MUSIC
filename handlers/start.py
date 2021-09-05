@@ -19,7 +19,7 @@ Add me to your group and play music freely😆!**
             [
                 [
                     InlineKeyboardButton(
-                        "Oᴡɴᴇᴇ", url="https://t.me/aloneness24")
+                        "Oᴡɴᴇʀ", url="https://t.me/aloneness24")
                   ],[
                     InlineKeyboardButton(
                         "🚑 SUPPORT GROUP 🚑", url="https://t.me/HEAVEN_MUSIC_SUPPORT"
@@ -29,7 +29,7 @@ Add me to your group and play music freely😆!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "GROUP ME LEJAO 😆", url="https://t.me/MARATHA_WARRIOR_MUSIC_1_BOT?startgroup=true"
+                        "GROUP ME LEJAO 😆", url="https://t.me/HAEVEN_MUSIC_BOT?startgroup=true"
                     )]
             ]
         ),
